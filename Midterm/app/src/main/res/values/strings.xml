@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homeEats</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="saved_recipes">Saved Recipes</string>
+    <string name="find_recipes">Find Recipes</string>
+    <string name="go_to_fridge">GO TO Fridge</string>
+</resources>
