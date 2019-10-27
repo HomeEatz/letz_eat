@@ -669,6 +669,7 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable china
+drawable def
 drawable france
 drawable germany
 drawable ic_close_black_24dp
@@ -712,6 +713,7 @@ id RandomCategory
 id RandomRestaurantTextView
 id RandomizeCategoriesButton
 id RanomizeRestaurantsButton
+id ResetButton
 id SHIFT
 id SYM
 id SeeFullRestaurantListButton
@@ -760,7 +762,6 @@ id button20
 id button21
 id button3
 id button4
-id button5
 id button6
 id button8
 id button9
@@ -802,6 +803,7 @@ id ifRoom
 id image
 id imageButton2
 id imageButton3
+id imageView
 id info
 id invisible
 id italic
@@ -883,7 +885,6 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggleButton
-id toggleButton8
 id top
 id topPanel
 id uniform
