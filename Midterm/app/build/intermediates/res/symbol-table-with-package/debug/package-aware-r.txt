@@ -803,7 +803,6 @@ id ifRoom
 id image
 id imageButton2
 id imageButton3
-id imageView
 id info
 id invisible
 id italic
