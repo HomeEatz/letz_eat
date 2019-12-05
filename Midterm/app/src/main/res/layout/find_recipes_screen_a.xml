@@ -74,7 +74,7 @@
         tools:layout_editor_absoluteY="16dp" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/ResetButton"
         android:layout_width="170dp"
         android:layout_height="58dp"
         android:text="Button"

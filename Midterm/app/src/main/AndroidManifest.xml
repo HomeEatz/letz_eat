@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".SeeFavCategoriesActivity" />
+        <activity android:name=".SeeFavoriteRestaurants" />
+        <activity android:name=".SeeRestaurantList" />
+        <activity android:name=".OutEatzMain" />
+        <activity android:name=".GoToFridgeActivity" />
     </application>
 
 </manifest>
