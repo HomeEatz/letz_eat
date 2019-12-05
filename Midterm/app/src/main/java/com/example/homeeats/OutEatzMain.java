@@ -23,7 +23,14 @@ public class OutEatzMain extends AppCompatActivity {
             R.drawable.india,
             R.drawable.italy2,
             R.drawable.mexico,
-
+//            R.drawable.chineseFood,
+//            R.drawable.frenchFood,
+//            R.drawable.germanFood,
+//            R.drawable.italianFood,
+//            R.drawable.japaneseFood,
+//            R.drawable.spanishFood,
+//            R.drawable.koreanFood,
+//            R.drawable.russianFood
 
     };
 
@@ -117,6 +124,7 @@ public class OutEatzMain extends AppCompatActivity {
                     case R.drawable.mexico:
                         finalChoiceTextView.setText("Mexican Food!");
                         break;
+
                 }
 
 

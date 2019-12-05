@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\bbc51c53aec70aeae5178e82f15e817a\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -33,25 +33,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Maria\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:5:5-26:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] C:\Users\Maria\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:5-89
@@ -106,6 +106,10 @@ activity#com.example.homeeats.GoToFridgeActivity
 ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:24:9-56
 	android:name
 		ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:24:19-53
+activity#com.example.homeeats.FilterScreenActivity
+ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:25:9-58
+	android:name
+		ADDED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml:25:19-55
 uses-sdk
 INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Maria\Documents\letz_eat\Midterm\app\src\main\AndroidManifest.xml

@@ -22,6 +22,7 @@
         <activity android:name=".SeeRestaurantList" />
         <activity android:name=".OutEatzMain" />
         <activity android:name=".GoToFridgeActivity" />
+        <activity android:name=".FilterScreenActivity" />
     </application>
 
 </manifest>

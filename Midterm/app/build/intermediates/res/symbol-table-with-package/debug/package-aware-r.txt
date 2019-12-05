@@ -670,8 +670,10 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable china
 drawable def
+drawable dollar_empty
 drawable france
 drawable germany
+drawable ic_attach_money_black_24dp
 drawable ic_close_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -692,6 +694,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable spain
+drawable toggle_dollar
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -700,6 +703,8 @@ id BackToMainHomeEatz
 id BackToMainPage
 id BackToOutEatzMainPageButton
 id CTRL
+id CloseScreenImageView
+id DistanceTextView
 id DoneButton
 id FUNCTION
 id FavCategoriesButton
@@ -709,6 +714,7 @@ id GoToMainPageButton
 id META
 id OutEatzBtn
 id PicktextView
+id PriceTextView
 id RandomCategory
 id RandomRestaurantTextView
 id RandomizeCategoriesButton
@@ -791,6 +797,7 @@ id expanded_menu
 id fill
 id fill_horizontal
 id fill_vertical
+id filterTextView
 id forever
 id gone
 id group_divider
@@ -817,6 +824,7 @@ id listMode
 id list_item
 id message
 id middle
+id milestextView4
 id multiply
 id never
 id none
@@ -831,6 +839,7 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id ratingTextView
 id relativeLayout
 id right
 id right_icon
@@ -855,6 +864,8 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id simpleRatingBar
+id simpleSeekBar
 id spacer
 id spinner
 id spinner2
@@ -879,11 +890,15 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textView
 id textView2
+id textView5
 id time
 id title
 id titleDividerNoCustom
 id title_template
 id toggleButton
+id toggleButton1
+id toggleButton2
+id toggleButton3
 id top
 id topPanel
 id uniform
@@ -926,6 +941,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout filter_pop_up
+layout filter_screen
 layout find_recipes_screen_a
 layout fridge_screen_a
 layout fridge_screen_c_add_items_dairy
@@ -945,6 +961,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -1157,6 +1174,7 @@ style Base_Widget_AppCompat_Toolbar_Button_Navigation
 style CardView
 style CardView_Dark
 style CardView_Light
+style ImageRatingBar
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_ThemeOverlay_AppCompat

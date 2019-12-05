@@ -23,5 +23,16 @@ public class SeeRestaurantList extends AppCompatActivity {
                 startActivity(startIntent);
             }
         });
+
+        Button goToFilter = (Button) findViewById(R.id.FilterRestaurantsButton);
+        goToFilter.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Intent startIntent1 = new Intent(getApplicationContext(), FilterScreenActivity.class );
+                startActivity(startIntent1);
+            }
+        });
+
     }
 }
