@@ -1,4 +1,4 @@
-#Thu Dec 05 16:09:49 EST 2019
-base.0=C\:\\Users\\Maria\\Documents\\letz_eat\\Midterm\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Tue Jan 07 15:47:34 EST 2020
+base.0=C\:\\Users\\Maria\\Documents\\letz_eat - Copy\\Midterm\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

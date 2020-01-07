@@ -724,6 +724,7 @@ id SHIFT
 id SYM
 id SeeFullRestaurantListButton
 id ShowRandomRestaurantTextView
+id StarsRatingBar
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -841,6 +842,7 @@ id progress_horizontal
 id radio
 id ratingTextView
 id relativeLayout
+id resetFilterButton
 id right
 id right_icon
 id right_side
@@ -864,7 +866,6 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
-id simpleRatingBar
 id simpleSeekBar
 id spacer
 id spinner
