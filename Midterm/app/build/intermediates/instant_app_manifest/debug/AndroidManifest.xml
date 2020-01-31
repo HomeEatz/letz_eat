@@ -19,19 +19,19 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.homeeats.MainActivity" >
+        <activity android:name="com.example.homeeats.SeeFavCategoriesActivity" />
+        <activity android:name="com.example.homeeats.SeeFavoriteRestaurants" />
+        <activity android:name="com.example.homeeats.SeeRestaurantList" />
+        <activity android:name="com.example.homeeats.OutEatzMain" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.homeeats.SeeFavCategoriesActivity" />
-        <activity android:name="com.example.homeeats.SeeFavoriteRestaurants" />
-        <activity android:name="com.example.homeeats.SeeRestaurantList" />
-        <activity android:name="com.example.homeeats.OutEatzMain" />
-        <activity android:name="com.example.homeeats.GoToFridgeActivity" />
         <activity android:name="com.example.homeeats.FilterScreenActivity" />
+        <activity android:name="com.example.homeeats.FavoritesActivity" >
+        </activity>
     </application>
 
 </manifest>
